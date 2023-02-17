@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99489a1f.css",
+    "main.js": "/static/js/main.4ce05590.js",
+    "static/js/787.3217bd05.chunk.js": "/static/js/787.3217bd05.chunk.js",
+    "static/media/serrurier-guy-moquet.png": "/static/media/serrurier-guy-moquet.54fa958d47fba1a9d353.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "static/media/check-list.svg": "/static/media/check-list.5b479c597c6188f60ade.svg",
+    "static/media/hamburger.svg": "/static/media/hamburger.ad65568c71977cf9fdcf7b191a9378e7.svg",
+    "static/media/plus.svg": "/static/media/plus.a1c5524dc55f734c8e510414da70cb4c.svg",
+    "main.99489a1f.css.map": "/static/css/main.99489a1f.css.map",
+    "main.4ce05590.js.map": "/static/js/main.4ce05590.js.map",
+    "787.3217bd05.chunk.js.map": "/static/js/787.3217bd05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99489a1f.css",
+    "static/js/main.4ce05590.js"
+  ]
+}
