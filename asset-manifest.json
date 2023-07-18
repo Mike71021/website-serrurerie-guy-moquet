@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.438a98b3.css",
-    "main.js": "/static/js/main.51bc1e8d.js",
+    "main.js": "/static/js/main.8f71e7e0.js",
     "static/js/787.3217bd05.chunk.js": "/static/js/787.3217bd05.chunk.js",
     "static/media/serrurier-guy-moquet.png": "/static/media/serrurier-guy-moquet.54fa958d47fba1a9d353.png",
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
@@ -12,11 +12,11 @@
     "static/media/hamburger.svg": "/static/media/hamburger.ad65568c71977cf9fdcf7b191a9378e7.svg",
     "static/media/plus.svg": "/static/media/plus.a1c5524dc55f734c8e510414da70cb4c.svg",
     "main.438a98b3.css.map": "/static/css/main.438a98b3.css.map",
-    "main.51bc1e8d.js.map": "/static/js/main.51bc1e8d.js.map",
+    "main.8f71e7e0.js.map": "/static/js/main.8f71e7e0.js.map",
     "787.3217bd05.chunk.js.map": "/static/js/787.3217bd05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.438a98b3.css",
-    "static/js/main.51bc1e8d.js"
+    "static/js/main.8f71e7e0.js"
   ]
 }
